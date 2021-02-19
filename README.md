@@ -1,16 +1,17 @@
-### Hi there 👋
+##heyo
 
 <!--
-**socksandbadges/socksandbadges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hope your well
+if you by chance happen to use one of my codes:
+you can change or keep what ou want
+BUT please credit me if you make it public:>
+-------------------------------------------
+About me!
+It takes me ages to finish things beause I'm dyslexic so it takes me a while to cheak over things
+and also becuse im still in school-
+I usually code in java and HTML but i like trying new things
+I'm always up for questions and suggestions
+You can contact me at socksandbadges@gmail.com and @socksansbadges on instagram:>
+-------------------------------------------------------------------------------------
+Hope you enjoy
 -->
