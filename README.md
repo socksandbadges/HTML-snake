@@ -1,7 +1,6 @@
-##heyo
-
-<!--
-Hope your well
+heyo
+Hope our well:>
+-----------------
 if you by chance happen to use one of my codes:
 you can change or keep what ou want
 BUT please credit me if you make it public:>
@@ -14,4 +13,3 @@ I'm always up for questions and suggestions
 You can contact me at socksandbadges@gmail.com and @socksansbadges on instagram:>
 -------------------------------------------------------------------------------------
 Hope you enjoy
--->
